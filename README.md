@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kilinkis/A24-movies-challenge/master/src/static/header.gif?token=GHSAT0AAAAAABMPK4A7PKDEP2IGF5DRAJROYQVPGCA" alt="A24 logo" loading="lazy" />
+  <img src="https://user-images.githubusercontent.com/133504/155389081-9c1c823e-ac3e-4682-ae18-1157b8ef83ba.gif" alt="A24 logo" loading="lazy" />
 </p>
 
 <!--
