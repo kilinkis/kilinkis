@@ -40,7 +40,7 @@ high-fidelity user experiences.
 I care about directing AI properly: using it to move faster without sacrificing
 architecture, tests, craft, or the humans using the product.
 
-`Frontend Core` · `Agentic R&D` · `A11y Compliance`
+`Frontend Core` · `Agentic R&D` · `Accessibility Engineering`
 
 <p>
   On the interwebs:
