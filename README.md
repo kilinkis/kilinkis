@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 # text in gray
 @@ text in purple (and bold)@@
 ```
--->
+
 **Engineering agentic products.**
 
 Senior engineer with deep frontend roots, building across the stack with
@@ -65,3 +65,24 @@ architecture, tests, craft, or the humans using the product.
 - Side projects around music, cinema, and niche data
 
 <sub>The repositories below are a selection of things I’m actively exploring and building.</sub>
+-->
+
+# Engineering agentic products.
+
+Senior engineer with deep web roots, building across the stack with agentic tooling, strong systems thinking, and a focus on reliable, accessible products.
+
+I care about directing AI properly: using it to move faster without sacrificing architecture, tests, craft, or the humans using the product.
+
+`Agentic Engineering` · `Web Platforms` · `Quality & Accessibility`
+
+On the interwebs: [www.kilinkis.me](https://www.kilinkis.me) · [linkedin.com/in/kilinkis](https://www.linkedin.com/in/kilinkis/)
+
+## Current focus
+
+- Agentic development workflows, with custom harnesses, reusable skills and verification gates
+- LLM-powered products: RAG, structured outputs and evaluation
+- Quality engineering: layered testing and CI gates that catch problems before release
+- Accessible web architecture that meets EU accessibility expectations
+- Side projects around music, cinema, and niche data
+
+The repositories below are a selection of things I'm actively exploring and building.
